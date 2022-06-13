@@ -1,5 +1,9 @@
 # binary_search_tree_projesi
 
+Patika dev profilim --> https://app.patika.dev/gunestalay
+
+
+
 [7,5,1,8,3,6,0,9,4,2] 
 
 |  |  |  |  |  | 7 |  |  |  |  |  |
